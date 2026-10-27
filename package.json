@@ -1,0 +1,23 @@
+{
+  "name": "learnjstsplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/suvarnaveer/LearnJSTSPlaywright_s#readme",
+  "bugs": {
+    "url": "https://github.com/suvarnaveer/LearnJSTSPlaywright_s/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvarnaveer/LearnJSTSPlaywright_s.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
